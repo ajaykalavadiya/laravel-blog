@@ -4,7 +4,6 @@ Laravel Blog is simple blogging platform. User can register into site and make p
 
 ## Step to install
 
-
 ```
 git clone https://github.com/ajaykalavadiya/laravel-blog.git
 cd laravel-blog
@@ -18,4 +17,8 @@ Your laravel blog is running at
 
 ```
 https://127.0.0.1:8000
+```
+## Command to import articles
+```
+php artisan sq1:feed:sync
 ```
